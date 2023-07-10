@@ -14,11 +14,6 @@ As a dedicated learner, I'm continuously enhancing my skills and knowledge in va
 - Version Control: Git
 - Problem Solving: Data Structures, Algorithms
 
-#### Projects
-During my academic journey, I have worked on several projects that have strengthened my understanding and skills. Some of my notable projects include:
-- [Project Name]: [Brief description of the project]
-- [Project Name]: [Brief description of the project]
-
 Feel free to explore my repositories to see these projects and more. I'm committed to writing clean and efficient code while ensuring the best user experience.
 
 #### Learning and Growth
