@@ -25,6 +25,15 @@ I have a strong passion for continuous learning and keeping up with the latest a
 I'm excited about collaborating with like-minded individuals and contributing to open-source projects. If you have any opportunities, projects, or ideas you'd like to discuss, please feel free to reach out to me.
 
 
+#### GitHub Statistics
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh6306&layout=compact&langs_count=6&hide=html,css)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh6306&show_icons=true&count_private=true&hide=stars)
+
+#### GitHub Contributions
+![Total Contributions](https://img.shields.io/github/commit-activity/w/Rishabh6306/Rishabh6306?label=Total%20Contributions)
+![Current Streak](https://img.shields.io/github/commit-activity/m/Rishabh6306/Rishabh6306?label=Current%20Streak)
+![Longest Streak](https://img.shields.io/github/commit-activity/y/Rishabh6306/Rishabh6306?label=Longest%20Streak)
+
 #### Let's Connect
 I believe in the power of networking and learning from others in the industry. You can reach me via email at rishabhsrivastav722@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rishabh-srivastava-b68684262/).
 
