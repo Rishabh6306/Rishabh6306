@@ -16,6 +16,35 @@ As a dedicated learner, I'm continuously enhancing my skills and knowledge in va
 
 Feel free to explore my repositories to see these projects and more. I'm committed to writing clean and efficient code while ensuring the best user experience.
 
+<!-- PROJECTS -->
+## PROJECTS
+<br>
+
+<!-- Project 1 - Portfolio Website -->
+<details>
+  <summary><b>Portfolio Website</b> <a href="https://our-portfolio-starter.netlify.app/" target="_blank">Demo</a> | <a href="https://github.com/Rishabh6306/Portfolio-Website" target="_blank">GitHub Repo</a></summary>
+  <p>
+    My personal portfolio website showcasing my all projects within this web development journey.
+  </p>
+</details>
+
+<!-- Project 2 - GitHub Profile Viewer -->
+<details>
+  <summary><b>GitHub Profile Viewer</b> <a href="https://github-profile-viewer-site.netlify.app/" target="_blank">Demo</a> | <a href="https://github.com/Rishabh6306/Github-Profile-Finder" target="_blank">GitHub Repo</a></summary>
+  <p>
+    A web application to view GitHub profiles by entering the username. It demonstrates my skills in web development using HTML, CSS, and JavaScript.
+  </p>
+</details>
+
+<!-- Project 3 - Motivational Quotes Generator -->
+<details>
+  <summary><b>Motivational Quotes Generator</b> <a href="https://motivationalquote.netlify.app/" target="_blank">Demo</a> | <a href="https://github.com/Rishabh6306/Full-Stack-Web-Development/tree/main/Full%20Stack%20Web%20Development/HTML%2C%20Tailwind%20CSS/3.%20Quotes%20Generate" target="_blank">GitHub Repo</a></summary>
+  <p>
+    An interactive web app that generates motivational quotes and authors. It utilizes HTML, CSS (Tailwind CSS), and JavaScript to create a positive user experience.
+  </p>
+</details>
+
+
 #### Learning and Growth
 I have a strong passion for continuous learning and keeping up with the latest advancements in the field of technology. Currently, I'm focused on:
 - Deepening my knowledge of JavaScript and its frameworks, such as React or Node.js
@@ -24,10 +53,16 @@ I have a strong passion for continuous learning and keeping up with the latest a
 #### Collaboration and Opportunities
 I'm excited about collaborating with like-minded individuals and contributing to open-source projects. If you have any opportunities, projects, or ideas you'd like to discuss, please feel free to reach out to me.
 
-
 #### GitHub Statistics
+<img src = "https://github-readme-stats.vercel.app/api?username=Rishabh6306&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh6306&layout=compact&langs_count=6&hide=html,css)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh6306&show_icons=true&count_private=true&hide=stars)
+
+
+#### GitHub Contributions
+![Total Contributions](https://img.shields.io/github/commit-activity/w/Rishabh6306/Rishabh6306?label=Total%20Contributions)
+![Current Streak](https://img.shields.io/github/commit-activity/m/Rishabh6306/Rishabh6306?label=Current%20Streak)
+![Longest Streak](https://img.shields.io/github/commit-activity/y/Rishabh6306/Rishabh6306?label=Longest%20Streak)
 
 
 #### Let's Connect
