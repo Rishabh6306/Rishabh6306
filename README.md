@@ -44,6 +44,15 @@ Feel free to explore my repositories to see these projects and more. I'm committ
   </p>
 </details>
 
+<!-- Project 4 - Image Gallery-->
+<details>
+ <summary> <a href="https://github.com/Rishabh6306/Image-Gallery" target="_blank">GitHub Repo</a></summary>
+  <p>
+   Discover a captivating collection of images. Explore, search, and filter with ease, bringing visual inspiration to life.
+  </p>
+</details>
+
+
 
 #### Learning and Growth
 I have a strong passion for continuous learning and keeping up with the latest advancements in the field of technology. Currently, I'm focused on:
