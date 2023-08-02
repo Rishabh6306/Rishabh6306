@@ -46,7 +46,7 @@ Feel free to explore my repositories to see these projects and more. I'm committ
 
 <!-- Project 4 - Image Gallery-->
 <details>
- <summary> <a href="https://github.com/Rishabh6306/Image-Gallery" target="_blank">GitHub Repo</a></summary>
+ <summary><b>Image Gallery</b> <a href="https://github.com/Rishabh6306/Image-Gallery" target="_blank">GitHub Repo</a></summary>
   <p>
    Discover a captivating collection of images. Explore, search, and filter with ease, bringing visual inspiration to life.
   </p>
