@@ -1,82 +1,56 @@
-### Hello there! 👋
+# Rishabh Srivastava
 
-Welcome to my GitHub profile! I'm Rishabh Srivastava, a passionate software developer and a current student pursuing my graduation. I'm thrilled to share my journey as a fresher in the world of coding and technology.
+## About Me
+I am a passionate software developer with expertise in building scalable and user-friendly web applications. My focus is on crafting seamless digital experiences using modern technologies.
 
-#### Education
-- 🎓 I'm currently pursuing my degree in [Bachelor of Science (BSc)].
-- 🌱 As a fresher, I'm eager to apply my theoretical knowledge to practical projects and gain hands-on experience in software development.
+## Education
+- **Bachelor of Science (BSc) in PCM** – Completed in 2024  
+- **Completed Web Development Course from PW Skills**  
 
-#### Skills
-As a dedicated learner, I'm continuously enhancing my skills and knowledge in various programming languages and technologies. Here are some of the key skills I possess:
-- Programming Languages: JavaScript, Basic Python
-- Web Development: HTML, CSS, JavaScript
-- Database: SQL, MongoDB
-- Version Control: Git
-- Problem Solving: Data Structures, Algorithms
+## Skills & Technologies
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, SQL  
+- **WordPress Development**  
+- **Version Control:** Git, GitHub  
+- **Deployment & Hosting:** Netlify, Vercel, Render  
 
-Feel free to explore my repositories to see these projects and more. I'm committed to writing clean and efficient code while ensuring the best user experience.
+## Featured Projects  
 
-<!-- PROJECTS -->
-## PROJECTS
-<br>
+### LEARN WITH FUN!  
+An innovative platform that blends education with entertainment, offering quizzes, notes, games, a digital library, and more.  
+- **Live Site:** [Learn With Fun](https://learn-with-fun.netlify.app/)  
+- **GitHub Repo:** [Learn With Fun](https://github.com/Rishabh6306/Learn-With-Fun)  
 
-<!-- Project 1 - Portfolio Website -->
-<details>
-  <summary><b>Portfolio Website</b> <a href="https://our-portfolio-starter.netlify.app/" target="_blank">Demo</a> | <a href="https://github.com/Rishabh6306/Portfolio-Website" target="_blank">GitHub Repo</a></summary>
-  <p>
-    My personal portfolio website showcasing my all projects within this web development journey.
-  </p>
-</details>
+### Movie Search WebApp  
+A React-based movie search application with filters for genre and year, utilizing Context API and React Router.  
+- **Live Site:** [Movie Search WebApp](https://movie-detail-all.netlify.app/)  
+- **GitHub Repo:** [Movie Search WebApp](https://github.com/Rishabh6306/Movie_Search_WebApp)  
 
-<!-- Project 2 - GitHub Profile Viewer -->
-<details>
-  <summary><b>GitHub Profile Viewer</b> <a href="https://github-profile-viewer-site.netlify.app/" target="_blank">Demo</a> | <a href="https://github.com/Rishabh6306/Github-Profile-Finder" target="_blank">GitHub Repo</a></summary>
-  <p>
-    A web application to view GitHub profiles by entering the username. It demonstrates my skills in web development using HTML, CSS, and JavaScript.
-  </p>
-</details>
+### Portfolio Website  
+My personal portfolio showcasing projects, skills, and expertise in frontend development.  
+- **Live Site:** [Portfolio Website](https://our-portfolio-starter.netlify.app/)  
+- **GitHub Repo:** [Portfolio Website](https://github.com/Rishabh6306/Portfolio-Website)  
 
-<!-- Project 3 - Motivational Quotes Generator -->
-<details>
-  <summary><b>Motivational Quotes Generator</b> <a href="https://motivationalquote.netlify.app/" target="_blank">Demo</a> | <a href="https://github.com/Rishabh6306/Full-Stack-Web-Development/tree/main/Full%20Stack%20Web%20Development/HTML%2C%20Tailwind%20CSS/3.%20Quotes%20Generate" target="_blank">GitHub Repo</a></summary>
-  <p>
-    An interactive web app that generates motivational quotes and authors. It utilizes HTML, CSS (Tailwind CSS), and JavaScript to create a positive user experience.
-  </p>
-</details>
+### Image Gallery  
+A dynamic gallery web application enabling users to search and filter images efficiently.  
+- **GitHub Repo:** [Image Gallery](https://github.com/Rishabh6306/Image-Gallery)  
 
-<!-- Project 4 - Image Gallery-->
-<details>
- <summary><b>Image Gallery</b> <a href="https://github.com/Rishabh6306/Image-Gallery" target="_blank">GitHub Repo</a></summary>
-  <p>
-   Discover a captivating collection of images. Explore, search, and filter with ease, bringing visual inspiration to life.
-  </p>
-</details>
+## Learning & Growth  
+I am currently enhancing my expertise in:  
+- Next.js for full-stack development  
+- API integrations and authentication  
+- Website performance optimization and SEO  
 
+## GitHub Statistics  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh6306&show_icons=true&theme=radical)  
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh6306&layout=compact&langs_count=6&theme=radical)  
 
-#### Learning and Growth
-I have a strong passion for continuous learning and keeping up with the latest advancements in the field of technology. Currently, I'm focused on:
-- Deepening my knowledge of JavaScript and its frameworks, such as React or Node.js
-- Exploring backend development using technologies like Express or MongoDB
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh6306&theme=radical)  
 
-#### Collaboration and Opportunities
-I'm excited about collaborating with like-minded individuals and contributing to open-source projects. If you have any opportunities, projects, or ideas you'd like to discuss, please feel free to reach out to me.
+## Let's Connect  
+- **Email:** rishabhsrivastav722@gmail.com  
+- **LinkedIn:** [Rishabh Srivastava](https://www.linkedin.com/in/rishabhsrivastav723)  
 
-#### GitHub Statistics
-<img src = "https://github-readme-stats.vercel.app/api?username=Rishabh6306&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh6306&layout=compact&langs_count=6&hide=html,css)
-
-
-#### GitHub Contributions
-![Total Contributions](https://img.shields.io/github/commit-activity/w/Rishabh6306/Rishabh6306?label=Total%20Contributions)
-![Current Streak](https://img.shields.io/github/commit-activity/m/Rishabh6306/Rishabh6306?label=Current%20Streak)
-![Longest Streak](https://img.shields.io/github/commit-activity/y/Rishabh6306/Rishabh6306?label=Longest%20Streak)
-
-
-#### Let's Connect
-I believe in the power of networking and learning from others in the industry. You can reach me via email at rishabhsrivastav722@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/rishabh-srivastava-b68684262/).
-
-Let's connect and create something amazing together!
-
-Happy coding! 😊
+I am open to collaboration, freelance opportunities, and innovative projects. Feel free to reach out!
