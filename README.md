@@ -4,8 +4,8 @@
 I am a passionate software developer with expertise in building scalable and user-friendly web applications. My focus is on crafting seamless digital experiences using modern technologies.
 
 ## Education
-- **Bachelor of Science (BSc) in PCM** – Completed in 2024  
-- **Completed Web Development Course from PW Skills**  
+- **Bachelor of Science (BSc) in PCM** – 2024  
+- **Web Development Course from PW Skills**  2023
 
 ## Skills & Technologies
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
@@ -46,8 +46,6 @@ I am currently enhancing my expertise in:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh6306&show_icons=true&theme=radical)  
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh6306&layout=compact&langs_count=6&theme=radical)  
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh6306&theme=radical)  
 
 ## Let's Connect  
 - **Email:** rishabhsrivastav722@gmail.com  
